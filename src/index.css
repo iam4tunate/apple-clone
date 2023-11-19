@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: SF-Thin;
+    src: url(./assets/SF-Pro-Thin.ttf);
+  }
+  @font-face {
+    font-family: SF-Light;
+    src: url(./assets/SF-Pro-Light.ttf);
+  }
+  @font-face {
+    font-family: SF;
+    src: url(./assets/SF-Pro.ttf);
+  }
+  @font-face {
+    font-family: SF-SemiBold;
+    src: url(./assets/SF-Pro-Semibold.ttf);
+  }
+  @font-face {
+    font-family: SF-Bold;
+    src: url(./assets/SF-Pro-Bold.ttf);
+  }
+
+  body {
+    @apply font-SF scrollbar-hide;
+  }
+}
