@@ -5,23 +5,23 @@
 @layer base {
   @font-face {
     font-family: SF-Thin;
-    src: url(./assets/SF-Pro-Thin.ttf);
-  }
-  @font-face {
-    font-family: SF-Light;
-    src: url(./assets/SF-Pro-Light.ttf);
+    src: url(./assets/SF-Pro-Thin.woff2);
   }
   @font-face {
     font-family: SF;
-    src: url(./assets/SF-Pro.ttf);
+    src: url(./assets/SF-Pro-Regular.woff2);
+  }
+  @font-face {
+    font-family: SF-Medium;
+    src: url(./assets/SF-Pro-Medium.woff2);
   }
   @font-face {
     font-family: SF-SemiBold;
-    src: url(./assets/SF-Pro-Semibold.ttf);
+    src: url(./assets/SF-Pro-Semibold.woff2);
   }
   @font-face {
     font-family: SF-Bold;
-    src: url(./assets/SF-Pro-Bold.ttf);
+    src: url(./assets/SF-Pro-Bold.woff2);
   }
 
   body {

@@ -6,7 +6,7 @@ export default {
       fontFamily: {
         SF: ["SF", "sans-serif"],
         SFThin: ["SF-Thin", "sans-serif"],
-        SFLight: ["SF-Light", "sans-serif"],
+        SFMedium: ["SF-Medium", "sans-serif"],
         SFSemiBold: ["SF-SemiBold", "sans-serif"],
         SFBold: ["SF-Bold", "sans-serif"],
       },
