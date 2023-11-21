@@ -25,6 +25,6 @@
   }
 
   body {
-    @apply font-SF scrollbar-hide;
+    @apply font-SF scrollbar-hide tracking-tight;
   }
 }
