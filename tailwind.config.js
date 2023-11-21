@@ -14,7 +14,8 @@ export default {
       backgroundImage: {
         iphone15pro_lg: "url('./src/assets/hero_iphone15pro_lg.jpg')",
         iphone15pro_md: "url('./src/assets/hero_iphone15pro_md.jpg')",
-        iphone15pro_sm: "url('./src/assets/hero_iphone15pro_sm.jpg')",
+        iphone15pro_sm:
+          "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700554415/apple%20clone/u8ksvvd2iuimqcaqkoa9.jpg')",
         iphone15_lg: "url('./src/assets/hero_iphone15_lg.jpg')",
         iphone15_md: "url('./src/assets/hero_iphone15_md.jpg')",
         iphone15_sm: "url('./src/assets/hero_iphone15_sm.jpg')",

@@ -9,7 +9,7 @@ const App = () => {
     <div>
       <Header />
       {/* HERO 1 */}
-      <div className="bg-iphone15pro_lg max-sm:bg-iphone15pro_sm max-md:bg-iphone15pro_md w-full bg-cover h-[630px] max-md:h-[590px] bg-bottom flex justify-center">
+      <div className="bg-[url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700554415/apple%20clone/io9fwkqo7ph0iik0lsqd.jpg')] max-sm:bg-iphone15pro_sm max-md:bg-iphone15pro_md w-full bg-cover h-[630px] max-md:h-[590px] bg-bottom flex justify-center">
         <div className="text-white translate-y-24 text-center max-[1068px]:pb-[25rem]">
           <div className="text-[3.5rem] max-[1068px]:text-[3rem] max-[734px]:text-[2rem] leading-none font-SFSemiBold text-center px-3">
             <span>iPhone 15 Pro</span>
