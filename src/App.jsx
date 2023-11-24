@@ -7,7 +7,7 @@ const App = () => {
     <div>
       <Header />
       {/* HERO 1 */}
-      <div className="bg-hero_macbook_lg max-sm:bg-hero_macbook_sm w-full bg-cover h-[690px] max-md:h-[550px] bg-bottom flex justify-center mb-3">
+      <div className="bg-hero_macbook_xl max-sm:bg-hero_macbook_sm w-full bg-cover h-[620px] max-md:h- bg-bottom flex justify-center mb-3">
         <div className="text-dark translate-y-24 text-center max-[1068px]:pb-[25rem]">
           <div className="text-[3.5rem] max-[1068px]:text-[3rem] max-[734px]:text-[2rem] leading-none font-SFSemiBold text-center px-3">
             <span>MacBook Pro</span>
@@ -24,7 +24,7 @@ const App = () => {
         </div>
       </div>
       {/* HERO 2 */}
-      <div className="bg-hero_imac_lg max-sm:bg-hero_imac_sm w-full bg-cover h-[630px] max-md:h-[550px] bg-bottom flex justify-center mb-3">
+      <div className="bg-hero_imac_xl max-sm:bg-hero_imac_sm w-full bg-cover h-[620px] max-md:h-[550px] bg-bottom flex justify-center mb-3">
         <div className="text-dark translate-y-14 text-center max-[1068px]:pb-[25rem]">
           <div className="text-[3.5rem] max-[1068px]:text-[3rem] max-[734px]:text-[2rem] leading-none font-SFSemiBold text-center px-3">
             <span>iMac</span>
@@ -41,7 +41,7 @@ const App = () => {
         </div>
       </div>
       {/* HERO 3 */}
-      <div className="bg-hero_iphone15pro_lg max-sm:bg-hero_iphone15pro_sm max-md:bg-hero_iphone15pro_md w-full bg-cover h-[630px] max-md:h-[590px] bg-bottom flex justify-center mb-3">
+      <div className="bg-hero_iphone15pro_xl max-sm:bg-hero_iphone15pro_sm max-md:bg-hero_iphone15pro_md w-full bg-cover h-[620px] max-md:h-[550px] bg-bottom flex justify-center mb-3">
         <div className="text-white translate-y-24 text-center max-[1068px]:pb-[25rem]">
           <div className="text-[3.5rem] max-[1068px]:text-[3rem] max-[734px]:text-[2rem] leading-none font-SFSemiBold text-center px-3">
             <span>iPhone 15 Pro</span>

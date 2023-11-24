@@ -10,23 +10,22 @@ export default {
         SFSemiBold: ["SF-SemiBold", "sans-serif"],
         SFBold: ["SF-Bold", "sans-serif"],
       },
-      colors: { dark: "#1d1d1f", blue: "#2997ff" },
+      colors: { dark: "#1d1d1f", blue: "#0066cc" },
       backgroundImage: {
-        hero_macbook_lg:
-          "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700774899/apple%20clone/ybibyikxbgwbkec4ziwm.jpg')",
+        hero_macbook_xl:
+          "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700791321/apple%20clone/jo94l5lwwdwb1jw6hkws.jpg')",
         hero_macbook_sm:
           "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700774899/apple%20clone/asaiihjqknhp3rb5gr4d.jpg')",
-        hero_imac_lg:
-          "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700774899/apple%20clone/uxwpx5neoulfdgwlapcp.jpg')",
+        hero_imac_xl:
+          "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700791322/apple%20clone/dhbtmdlnw9yparspwue9.jpg')",
         hero_imac_sm:
           "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700774898/apple%20clone/boiykuqagufy75fdsbuj.jpg')",
-        hero_iphone15pro_lg:
-          "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700554415/apple%20clone/io9fwkqo7ph0iik0lsqd.jpg')",
+        hero_iphone15pro_xl:
+          "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700791322/apple%20clone/frtt8k7iwalhphf2hzge.jpg')",
         hero_iphone15pro_md:
           "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700554415/apple%20clone/dxaggvtkyzd8suqntx8r.jpg')",
         hero_iphone15pro_sm:
           "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700554415/apple%20clone/u8ksvvd2iuimqcaqkoa9.jpg')",
-        iphone15_xl: "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700784073/apple%20clone/o4t9fgjlzsdv67wsvhmn.jpg')",
         iphone15_lg: "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700784072/apple%20clone/ffip9pwcc4xog1xqh8cd.jpg')",
         iphone15_md: "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700784071/apple%20clone/udnbvzjjkun1mcbzfxu3.jpg')",
         iphone15_sm: "url('https://res.cloudinary.com/dk2kchb50/image/upload/v1700784072/apple%20clone/d0skojl1n0bojr9qyftt.jpg')",
