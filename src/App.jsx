@@ -7,7 +7,7 @@ const App = () => {
     <div>
       <Header />
       {/* HERO 1 */}
-      <div className="bg-hero_macbook_lg max-sm:bg-hero_macbook_sm w-full bg-cover h-[630px] max-md:h-[550px] bg-bottom flex justify-center mb-3">
+      <div className="bg-hero_macbook_lg max-sm:bg-hero_macbook_sm w-full bg-cover h-[690px] max-md:h-[550px] bg-bottom flex justify-center mb-3">
         <div className="text-dark translate-y-24 text-center max-[1068px]:pb-[25rem]">
           <div className="text-[3.5rem] max-[1068px]:text-[3rem] max-[734px]:text-[2rem] leading-none font-SFSemiBold text-center px-3">
             <span>MacBook Pro</span>
